@@ -8,7 +8,7 @@ Este podcast chamado 'Conversa de Pixel', de apenas 3 minutos, oferece um passei
 - **[ChatGPT](https://chat.openai.com)**: Para roteirização e revisão; 
 - **[ElevenLabs](https://www.elevenlabs.io)**: Para sintetização de voz; 
 
-### Outras ferramentas 
+### Outras ferramentas utilizadas (sem uso de IA)
 - **[CapCut](https://www.capcut.com)**: Edição do áudio e adição de música e efeitos; 
 - **[Pixilart](https://www.pixilart.com)**: Para desenhar o robô e balão de fala. 
 - **[Adobe Illustrator](https://www.adobe.com/br/products/illustrator.html)**: Para desenho da capa. 
