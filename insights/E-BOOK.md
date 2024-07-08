@@ -7,7 +7,7 @@ O objetivo deste ebook de 10 páginas é fornecer uma introdução concisa para 
 ### IAs Generativas 
 - **[ChatGPT](https://chat.openai.com)**: Para geração conteúdo textual; 
 
-### Outras ferramentas 
+### Outras ferramentas utilizadas (sem uso de IA) 
 * **[Adobe Illustrator](https://www.adobe.com/br/products/illustrator.html)**: Edição de ilustrações de uso gratuito do Freepik, criação de ilustrações próprias; 
 * **[Adobe InDesign](https://www.adobe.com/br/products/indesign.html)**: Diagramação do e-book. 
 
